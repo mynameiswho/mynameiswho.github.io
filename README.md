@@ -15,7 +15,7 @@ Check out my [CV](https://mynameiswho.github.io/TheodoreMontel_CV.pdf)!
 - [MSc thesis](https://mynameiswho.github.io/msc_thesis.pdf)
 
 ## Fun stuff
-[Record of me speaking in the 🇸🇪 parliament at 17, in Swedish](https://www.yumpu.com/sv/document/read/20243091/protokollet-pdf-nytt-fonster-riksdagen)
+[Record of me speaking in the 🇸🇪 parliament at 17 in front of ~360 students](https://www.yumpu.com/sv/document/read/20243091/protokollet-pdf-nytt-fonster-riksdagen)
 
 ## Socials
 - [GitHub](https://github.com/mynameiswho)
