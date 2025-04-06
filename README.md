@@ -12,7 +12,7 @@ Check out my [CV](https://mynameiswho.github.io/TheodoreMontel_CV.pdf)!
 
 ## Work
 - [EURIBOR / ESTR spread analysis](https://github.com/mynameiswho/euribor_ois_spread)
-- [MSc thesis](https://mynameiswho.github.io/msc_thesis.pdf)
+- [MSc thesis (limit order book analysis)](https://mynameiswho.github.io/msc_thesis.pdf)
 
 ## Fun stuff
 [Record of me speaking in the 🇸🇪 parliament at 17 in front of ~360 students](https://www.yumpu.com/sv/document/read/20243091/protokollet-pdf-nytt-fonster-riksdagen)
