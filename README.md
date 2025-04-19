@@ -12,6 +12,7 @@ Check out my [CV](https://mynameiswho.github.io/TheodoreMontel_CV.pdf)!
 
 ## Work
 - [EURIBOR / ESTR spread analysis](https://github.com/mynameiswho/euribor_ois_spread)
+- [Quantlib Delta Ladder](https://github.com/mynameiswho/ql_delta_ladder)
 - [MSc thesis (limit order book analysis)](https://mynameiswho.github.io/msc_thesis.pdf)
 
 ## Fun stuff
